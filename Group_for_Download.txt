@@ -9,3 +9,4 @@
 # - SRC-PORT,7777
 
 DOMAIN-SUFFIX,civitai.com
+DOMAIN-KEYWORD,huggingface
